@@ -1,0 +1,2 @@
+pyinstaller==5.7
+hmac==3.0
